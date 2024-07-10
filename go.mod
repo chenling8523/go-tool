@@ -1,3 +1,3 @@
-module chen4du.com/tool
+module chenling8523/go-tool
 
 go 1.20
